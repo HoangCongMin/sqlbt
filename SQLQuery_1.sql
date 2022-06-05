@@ -1,0 +1,1 @@
+SELECT malophoc FROM lophoc
